@@ -1,2 +1,2 @@
 # Estudos
-Linguagens de programação que estudei por conta própria
+Neste repositorio, Você vai encontrar todas as linguagens de programação que descidi estudei por conta própria
