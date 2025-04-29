@@ -26,7 +26,7 @@ Para manter a organização, cada linguagem de programação que estudo possui s
 
 Sinta-se à vontade para navegar pelas pastas e explorar os materiais!
 
-## 🌱 Próximos Passos
+## 🌱 Próximas Plantações
 
 Meu aprendizado é contínuo! Na medida em que avanço, pretendo explorar novas linguagens, aprofundar meus conhecimentos nas que já estudo e documentar meu progresso aqui. Fique à vontade para acompanhar minha jornada!
 
